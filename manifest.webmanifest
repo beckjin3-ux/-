@@ -1,0 +1,10 @@
+{
+  "name": "CREW ARCHIVE",
+  "short_name": "CREW ARCHIVE",
+  "description": "크루 작업 관리 및 창작물 승인 앱",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#100d10",
+  "theme_color": "#100d10",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
